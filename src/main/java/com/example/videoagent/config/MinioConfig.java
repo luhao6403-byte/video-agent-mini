@@ -1,4 +1,4 @@
-package com.example.videoagent;
+package com.example.videoagent.config;
 
 import io.minio.MinioClient;
 import org.springframework.beans.factory.annotation.Value;

@@ -1,4 +1,4 @@
-package com.example.videoagent;
+package com.example.videoagent.controller;
 
 import io.minio.BucketExistsArgs;
 import io.minio.MinioClient;

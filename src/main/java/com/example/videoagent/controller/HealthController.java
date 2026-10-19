@@ -1,4 +1,4 @@
-package com.example.videoagent;
+package com.example.videoagent.controller;
 
 import java.util.List;
 import java.util.Map;
